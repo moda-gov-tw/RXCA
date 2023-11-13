@@ -1,6 +1,6 @@
-[submodule "dXCA-Frontend"]
+[submodule "RXCA-Frontend"]
 	path = frontend
-	url = git@github.com:AwespireTech/dXCA-Frontend.git
-[submodule "dXCA-Backend"]
+	url = git@github.com:AwespireTech/RXCA-Frontend.git
+[submodule "RXCA-Backend"]
 	path = backend
-	url = git@github.com:AwespireTech/dXCA-Backend.git
+	url = git@github.com:AwespireTech/RXCA-Backend.git
