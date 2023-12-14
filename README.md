@@ -13,7 +13,7 @@ After aprroval by the official deparment's wallet, a soulbound token will be iss
 
 ## Setup
 
-To fully run this project, you need to get the three submodules up and running separately.\
+To fully run this project, you need to get the two submodules up and running separately.\
 Detailed setup instructions can be found in the README of each submodule.
 
 ## Demo
