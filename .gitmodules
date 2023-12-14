@@ -1,6 +1,8 @@
 [submodule "RXCA-Frontend"]
 	path = frontend
 	url = git@github.com:AwespireTech/RXCA-Frontend.git
+    	branch = main
 [submodule "RXCA-Backend"]
 	path = backend
 	url = git@github.com:AwespireTech/RXCA-Backend.git
+    	branch = main
