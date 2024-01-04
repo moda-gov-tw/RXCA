@@ -18,5 +18,5 @@ Detailed setup instructions can be found in the README of each submodule.
 
 ## Demo
 
-[Demo website](https://xca-application.plurality.moda.gov.tw/)
+[Demo website](https://rxca-application.plurality.moda.gov.tw/)
 
